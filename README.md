@@ -1,4 +1,4 @@
-# HomeDAO
+# COOPdao
 
 First project of ConsenSys Academy's course, the developer bootcamp. 
 
